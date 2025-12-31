@@ -46,3 +46,8 @@ Gaji bersih kasir: Rp 4,700,000
 ## 🧠 Filosofi
 > "Tools kecil yang andal lebih berharga daripada aplikasi besar yang lambat."  
 Dibuat untuk **UMKM**, dipelihara oleh **developer CLI**, diinspirasi oleh kebutuhan nyata di lapangan.
+
+---
+
+## 📄 Lisensi
+MIT — bebas pakai, modifikasi, dan sebarkan. Asal jangan lupa senyum 😊
